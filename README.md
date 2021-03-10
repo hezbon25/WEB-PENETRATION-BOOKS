@@ -1,2 +1,2 @@
-# WEB-PENETRATION-BOOKS
-Handful of reading material useful in web application testing
+# Web-Penetration-Books
+Handful of reading material to guide you in the real world of web application pentesting
